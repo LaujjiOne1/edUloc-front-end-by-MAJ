@@ -1,0 +1,8 @@
+{
+  "name": "edUloc",
+  "description": "edUloc mobile and web application with interactive navigation, documentation explorer, and dual theme support.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
